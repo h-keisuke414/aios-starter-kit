@@ -1,7 +1,13 @@
-# izayoi-ai-starter
+# aios-starter-kit
 
-企業向け AI 導入サポートの初期セットアップ用テンプレートリポジトリ。
+AIOS シリーズの企業向け **AI 導入サポート** 初期セットアップ用テンプレートリポジトリ。
 クライアントごとに **"Use this template"** で複製し、プレースホルダを置換するだけで案件を始められる構成。
+
+> AIOS シリーズ（予定）
+> - **aios-starter-kit**（本リポジトリ） — AI 導入支援
+> - aios-sns-starter — SNS 運用支援（将来）
+> - aios-line-starter — LINE 構築支援（将来）
+> - aios-meo-starter — MEO 対策支援（将来）
 
 ## 想定ユースケース
 
