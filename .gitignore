@@ -1,0 +1,32 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# ローカル作業フォルダ（機密データ・一時ファイル）
+.local/
+private/
+*.private.md
+
+# クライアント実データ（CSV・スプレッドシート・録音等は外部に置く）
+*.csv
+*.xlsx
+*.numbers
+*.mp3
+*.mp4
+*.wav
+*.zip
+
+# 認証情報
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+
+# Claude Code ローカル設定
+.claude/settings.local.json
